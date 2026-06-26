@@ -1,0 +1,15 @@
+C:\Users\Yaghya\Documents\Coding\C#\generic-stack-with-undo-redo-support-C-\UndoableStack\bin\Debug\net9.0\UndoableStack.exe
+C:\Users\Yaghya\Documents\Coding\C#\generic-stack-with-undo-redo-support-C-\UndoableStack\bin\Debug\net9.0\UndoableStack.deps.json
+C:\Users\Yaghya\Documents\Coding\C#\generic-stack-with-undo-redo-support-C-\UndoableStack\bin\Debug\net9.0\UndoableStack.runtimeconfig.json
+C:\Users\Yaghya\Documents\Coding\C#\generic-stack-with-undo-redo-support-C-\UndoableStack\bin\Debug\net9.0\UndoableStack.dll
+C:\Users\Yaghya\Documents\Coding\C#\generic-stack-with-undo-redo-support-C-\UndoableStack\bin\Debug\net9.0\UndoableStack.pdb
+C:\Users\Yaghya\Documents\Coding\C#\generic-stack-with-undo-redo-support-C-\UndoableStack\obj\Debug\net9.0\UndoableStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yaghya\Documents\Coding\C#\generic-stack-with-undo-redo-support-C-\UndoableStack\obj\Debug\net9.0\UndoableStack.AssemblyInfoInputs.cache
+C:\Users\Yaghya\Documents\Coding\C#\generic-stack-with-undo-redo-support-C-\UndoableStack\obj\Debug\net9.0\UndoableStack.AssemblyInfo.cs
+C:\Users\Yaghya\Documents\Coding\C#\generic-stack-with-undo-redo-support-C-\UndoableStack\obj\Debug\net9.0\UndoableStack.csproj.CoreCompileInputs.cache
+C:\Users\Yaghya\Documents\Coding\C#\generic-stack-with-undo-redo-support-C-\UndoableStack\obj\Debug\net9.0\UndoableStack.sourcelink.json
+C:\Users\Yaghya\Documents\Coding\C#\generic-stack-with-undo-redo-support-C-\UndoableStack\obj\Debug\net9.0\UndoableStack.dll
+C:\Users\Yaghya\Documents\Coding\C#\generic-stack-with-undo-redo-support-C-\UndoableStack\obj\Debug\net9.0\refint\UndoableStack.dll
+C:\Users\Yaghya\Documents\Coding\C#\generic-stack-with-undo-redo-support-C-\UndoableStack\obj\Debug\net9.0\UndoableStack.pdb
+C:\Users\Yaghya\Documents\Coding\C#\generic-stack-with-undo-redo-support-C-\UndoableStack\obj\Debug\net9.0\UndoableStack.genruntimeconfig.cache
+C:\Users\Yaghya\Documents\Coding\C#\generic-stack-with-undo-redo-support-C-\UndoableStack\obj\Debug\net9.0\ref\UndoableStack.dll
